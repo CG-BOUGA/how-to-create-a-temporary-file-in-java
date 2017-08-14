@@ -1,7 +1,5 @@
 ```java runnable
 // { autofold
-import static java.nio.file.StandardOpenOption.APPEND;
-
 import java.nio.file.Files;
 import java.nio.file.Path;
 
